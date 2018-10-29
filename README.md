@@ -1,4 +1,4 @@
-# SoftwareArchitectureLondon
+# Software Architecture London
 
 #### Building evolutionary architectures
 - Try to keep the performance of your codebase as the architecture evolves. 
@@ -35,3 +35,14 @@ You should have a performance fitness function.
 - Use chaos monkey that is checking for services that aren't used anymore and cleans up automatically.
 
 Check out Microkernel
+
+
+#### How to build a modular monolith
+- How to break ?
+- How big ?
+
+##### How big ? 
+- Use Bounded Contexts to define the size of the microservice. 
+- https://isis.apache.org/ - DDD + Storage options
+- Uses isis to focus on domain and let the library take care of the infrastructure and gluing.
+- Use DDD Bounded context but not separated in microservices in a nutshell
