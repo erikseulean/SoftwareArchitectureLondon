@@ -95,4 +95,39 @@ Chained requests - how to split timeouts:
 Where to inject latency ? 
 - make sure you control the blast radius so you dont affect too many clients. 
 
+### Architecting for Data driven reliability
+- 1956 J von Neumann
+- 1986 J Gray - Why do computers stop and what can be done about it ?
+- Velocity (engineering, proactive, change) and Reliability (support, reactive, preserve) 
+- 1883 - in order to have reliability you need to measure reliability
+There are not many tricks in the book:
+- redundant resource (extra disk)
+- degraded results (tradeoff)
+- retry transient failures (trade latency)
+Everytime you improve reliability you increase complexity.
+
+1. Research (what are the numbers)
+2. Calculate - the % 
+3. Design 
+
+Aiming for 100% is not intelectually a righurous objective. 
+
+- 2001 E. Brewer Lessons from Giant Scale Services
+- 2009 L Barroso, U Holzle - The datacenter as a computer
+
+- Now - we're trying to break the system to stop it breaking. 
+- you have to measure something to be scientific about it 
+- Can we iterate towards reliable architecture ? 
+
+##### Measuring reliability
+- reliability doesn't necessarily relate to business goals
+- not everything that you measure makes sense
+- make sure that you are improving based on the correct metrics 
+- cut down measurements that don't matter
+
+Things to do:
+1. focus on the user
+2. keep it simple
+3. mean it - actually use it
+4. be honest
 
