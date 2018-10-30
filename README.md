@@ -131,3 +131,45 @@ Things to do:
 3. mean it - actually use it
 4. be honest
 
+
+##### Measuring UIs:
+- application load
+- navigation
+- instant
+- animation
+- captive
+- notification
+
+Pareto FTW:
+20% matter - 80% just extra stuff.
+
+Thinking about availability in large service infrastructures. J Mogul, R Isaacs, B Welch - Google
+Measure the system end to end. 
+
+Does your business have a problem with availability?
+Do you have a good idea of your users reliability ?
+What should your signal -> collect -> aggregate pipeline look like ?
+How would you net the biggest metric improvement ? 
+What direct indicators of user harm you have and do they register on your metrics ? How would you make measuremets broader/truer ? 
+
+### Ethics in tech - a psychological perspective on behaviour and organisations
+
+- 75% of people conform to something that they are being told to do. Because we don't want to be different. 
+- in ambiguous situations conformity increases
+- be courageous and speak up
+- Courage is persistence in the face of fear (Aristotle)
+- Impression management - we like to be in charge how people see us. 
+- Look for psychological safety. The shared belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns or mistakes. The less psychological safe is, the more mistakes people do and less inovation happens.
+- Number one spot that makes teams effective is psychological safety. 
+"In google's fast-paced highly demanding environment our success hinges on the ability to take risks and be vulnerable in front of peers"
+- High demand and no psychological safety = anxiety zone
+
+
+psychological safety low and high demand company = anxiety zone
+psychological safety low and low demand company = apathy zone
+psychological safety high and low demand company = comfort zone
+psychological safety high and high demand company = learning zone
+
+Give a voice to people. "let's do this together" "
+
+
