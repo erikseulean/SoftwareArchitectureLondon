@@ -170,6 +170,65 @@ psychological safety low and low demand company = apathy zone
 psychological safety high and low demand company = comfort zone
 psychological safety high and high demand company = learning zone
 
-Give a voice to people. "let's do this together" "
+
+### Event streaming as a source of truth
+- check out formula 1 realtime event streaming 
+- apply projection into a view using CQRS
+- have the events cached
+- anti-corruption layer
+- create aggregate event
+
+### Scaling CQRS in Theory, Practice and Reality
+
+Microservices - seen as noun driven design.
+CQRS - helps to achieve you the microservice architecture by enforcing services
+
+### Communicating your architectural decisions
+
+#### The illusion of communication
+Phrases that are covering us, protecting us, trying to save us from later:
+- I told them
+- They were in the room
+- It's on the wiki
+- It was in an email
+- It's in the code
 
 
+Communication is a 2 way process. 
+
+- Understanding difference between stakeholders and how to communicate with them
+- learn conflict management and antipatterns
+
+#### Selling: 
+- we sell our solutions internally and externally
+- help your clients (workmates, stakeholders) to succed in a way they feel good about it
+- a good sales process starts in mind 
+- a good sales person understands 
+- a good sales person is about listening and understanding
+
+Sometimes sales is being seen as doing something <b>to</b> people instead of <b>for</b> or <b>with</b> people
+
+#### Buying:
+- percived value is worth the perceived cost
+
+Why talk about tech ? All decisions are emotional. Reusability, clean code, security, etc. 
+
+#### Developers as Stakeholders
+- knowledege of existing implementation
+- deeper hands on language/platform knowledge
+- sounding board
+- technical constraints
+
+Everytime you communicate or do something make sure you're including the developers in the equation. Make sure they know everything they have to know and <b>WHY</b> you're building what you're building. What are the assumptions and the constrains. 
+
+Explain what are the goals and time constraints, make sure htey understand the direction and they have <b>independence</b>. Eg "this is what we're doing in the next 3 months, this is the direction"
+Motivation is the sense of autonomy. 
+
+Friction: passive-aggressive resistance, ongoing skepticism. 
+
+#### Project managers as stakeholders:
+- they need to know how are we building this thing, in a broad sense. Not as technical jargon as talking with developers. Impact on time,scope and cost. 
+
+Assure that the solution is meeting all the constraints we have and we're not making the incorrect assumptions. 
+
+Friction: no time for meetings, armchair solutioning, lack of support
