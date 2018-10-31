@@ -206,7 +206,9 @@ Communication is a 2 way process.
 - a good sales person understands 
 - a good sales person is about listening and understanding
 
-Sometimes sales is being seen as doing something <b>to</b> people instead of <b>for</b> or <b>with</b> people
+Sometimes sales is being seen as doing something <b>to</b> people instead of <b>for</b> or <b>with</b> people.
+
+Don't try to convince people to do the way YOU want but make sure they are part of the entire thought process.
 
 #### Buying:
 - percived value is worth the perceived cost
@@ -232,3 +234,65 @@ Friction: passive-aggressive resistance, ongoing skepticism.
 Assure that the solution is meeting all the constraints we have and we're not making the incorrect assumptions. 
 
 Friction: no time for meetings, armchair solutioning, lack of support
+
+#### Client / Business
+- What are we doing ? How are the short term and long term goals. What's the direction, are there any tradeoffs ? 
+- If business are part of your daily process, they know when you don't meet the deadlines and they can understand the reasoning. 
+They need to have confidence in the team, and the costs are justified. 
+
+Friction - "I've heard that x is a great technology why don't we use that?", misalignment.
+
+#### Shaping and communicating a solution:
+1. research 
+2. qualify
+3. solve
+4. present (close)
+
+<b>Research</b> - understand what exactly we're solving and what's the problem the stakeholders are presenting.
+- Listen to understand not to intrerrupt! 
+- Find the actual problem statement. 
+- Remember what's the real problem and don't microfocus. 
+- The solution is valuable only if stakeholders understand that you're solving a real problem. 
+
+<b> Qualify </b> 
+- listen to people
+- build trust by demonstrating listening skills and understanding of needs
+- verify key assumptions and constraints before diving into the solution
+- you own the understanding of what you've heard in a 2 way communication
+
+<b>To make sure you understand use:</b> <i>"What i hear you saying is ..." , "Ok so my understanding is ...", "To summarize you want to do 3 things..."</i>
+
+<b> Don't afraid to be wrong. </b>You're not being paid to be right, you're paid to solve problems. Admit that you made a mistake. If you show humility you're going to earn more confidence from your team. 
+
+<b> Questions are a sign of strength </b> - a sign that you care to understand. 
+Ask questions to disprove your theory. 
+What's the probability of that happening ? How often that happens, etc ?
+
+<b>Solve</b>
+- knowing all the details make you have a very inflexible design. System are constantly changing and you can't know all the details upfront. Although make sure that the problem is well stated. 
+<hr>
+Make sure that you're stating a problem not a <b> USE </b> of technology. Eg
+"We need multithreading"  better "We need to support more concurrent customers"
+"We're not closing enough new business" 
+
+Let the team dismiss or approve your solution. 
+<i>"We need an architecture that enables offline tablet usage but can get content updates when wifi is available" </i>
+
+Your architecture doesn't have to be just technical buzzwords. 
+Solving is basically mapping from needs/goals to solution while honoring constraints. 
+
+<b> Present </b>
+- Start with the problem statement. <i> Here's what are we solving </i>
+- Walk people into your solution
+- Pave the way with understanding of needs
+- Show how you're addressing constraints
+- On board people as you go
+
+Provide Solution Details tailored for your specific stakeholders. Continue to map values, needs, constraints. 
+Be confident, and if you made your homework you shouldn't have problems. Listen, don't just talk. Communication is a process.
+Make sure that the people understand that you have the best interest in mind. 
+
+#### Storytelling
+- understand the conclusion of your story.
+- provides cohesion, reasons to listen
+- set people up to predict ending which can often garner support.
