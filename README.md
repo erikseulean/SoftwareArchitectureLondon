@@ -292,7 +292,105 @@ Provide Solution Details tailored for your specific stakeholders. Continue to ma
 Be confident, and if you made your homework you shouldn't have problems. Listen, don't just talk. Communication is a process.
 Make sure that the people understand that you have the best interest in mind. 
 
-#### Storytelling
+<hr>
+Means of comunication:
+
+<b>Storytelling</b>
 - understand the conclusion of your story.
 - provides cohesion, reasons to listen
 - set people up to predict ending which can often garner support.
+
+<b> Newspaper approach </b>
+- builds a framework to absorb complex information
+
+<b> Teaching method </b>
+- first tell them what you're going to tell them 
+- tell them
+- then explain them what you told them
+- always wrap up and make sure you outline the key things
+
+#### Conflict:
+- Conflict of idea (good)
+- Conflict of people (bad)
+
+1. Good team members will question what they don't understand and challenge assumptions.
+
+2. Bad team members will not ask questions, will be comfortable. People will take the floor and talk about things that aren't important. 
+
+<b>The detail</b>
+- sometimes we have visibility to too many details and can make the honest mistake of giving equal weight to details
+- don't prioritize minutiae at the expense of a good solution.
+The conflict is (usually) not about the solution but about the problem we're trying to solve. 
+
+Inquiry vs Advocacy:
+- make sure that people are heard. Don't say <i>"I don have time to hear all of you" </i>
+- engineers should speak as one voice with managers/stakeholders. This means you need to get to a consensus. Smaller the team the easier it is. 
+
+<b>When dealing with conflict...</b>
+- ask questions to guide rather than confront.
+- depends regionally and culturally. Eg in NY it's very common to be agressive and don't have hard 
+feelings about it. 
+
+<hr>
+Use the "5 whys" to get to the root of the problem.
+Drill into something gradually by zooming in on the previous question.
+
+We can learn something from anybody, if we're willing to do it. 
+
+#### Communication antipatterns:
+- I'm really busy
+- As i've said before
+- I told them
+- That's just common sense
+- Because I've said so
+
+This ones are shutting down conversations and make people avoid conversating with you. 
+
+#### Communication styles:
+- Dominant/Direct
+- Influence/Inspire
+- Conscientious/Cautious
+- Steady/Supportive
+
+Some people are more people oriented others are more task oriented. Task oriented people seem to be direct and dominant, cautious and conscientious. [Disc model](
+https://www.discprofile.com/what-is-disc/overview/)
+
+<b> Dominant/Direct people </b>
+- they don't like to flower things
+- but they get upset when they are being told that they are wrong. 
+- <i>"facts are facts"</i> but they are taking everything very personally 
+
+<b> Task focused people: </b>
+- can be controlling, micromanaging
+- rejecting suggestions that aren't theirs
+- appears impatient
+- won't want to admit being wrong
+- too deep in implementation details
+- quick thinking - not taking all the details in consideration. 
+- considers they have the flash of briliance 
+- reactive thinking
+
+<b> People focused people: </b>
+- too vague
+- not hands on enough
+- moves on too soon
+- can appear in over their head
+- lets bad decision run rather than confront
+- assumes good intentions are enough
+- needs all information to make a decision
+- disrupting status quo requires work
+
+Becoming an effective architect
+- provide decision and guidance to help dev teams make good choices NOT enforcing choices.
+- ensure teams have everything they need to succeed.
+- get feedback on your architecture, people are working on it.
+- desplay emotional intelligence. Sometimes listening is what you need to do. 
+- Don't assault other ideas. 
+- walk back to assumptions, constraints and expected outcomes.
+- Don't get sidetrack by "cool technology" or "new things" your goal is to solve problems.
+
+#### Final thoughts:
+- remove ambiguity
+- words have meaning :-) communication antipattern 
+- stating the obvious is not bad, because sometimes the obvious is not that obvious
+- 
